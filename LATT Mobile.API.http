@@ -1,0 +1,6 @@
+@LATT_Mobile.API_HostAddress = http://localhost:5179
+
+GET {{LATT_Mobile.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
